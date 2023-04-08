@@ -1,0 +1,13 @@
+<! DOCTYPE html>
+<html>
+    <head>
+        <title>Html style></title>
+    </head>
+    <body style="background-color:yellow;">
+   <h1> i am heading</h1> 
+   <h2> man yawukal yenegen</h2>        
+   <p1> this is html tutoriyal</p1>
+   <p2> tis is ayu the great </p2>
+       <hr>
+    </body>
+</html>

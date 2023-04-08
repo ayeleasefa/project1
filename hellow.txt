@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+    <head>
+        <title> my head</title>
+    <link rel="icon"type="image/x-icon" href="D:\well.icon">
+    </head>
+    <body background-color="white">
+        <p> hello students </p>
+        <p>c<sub>6</sub> h<sub>12</sub>o<sub>6</sub></p>
+ <hr>
+ <p> this is <br>greting<br/></p>
+ <h1>heding1</h1><h2>heading2</h2><h3>heading3</h3><h4> heading4</h4><h5> h5</h5><h6>h6</h6>
+ <img src="d\html\wall.jpg"alt="this is tree"style=width:400px;height:300px;align:center;></img>
+
+</body>
+</html>
