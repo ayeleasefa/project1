@@ -9,5 +9,7 @@
    <p1> this is html tutoriyal</p1>
    <p2> tis is ayu the great </p2>
        <hr>
+<p3> this is a paragrph after edit</p>
+<p4>in locl reposeteri edit you must use nano editr ok</p4>
     </body>
 </html>
